@@ -6,7 +6,9 @@ O projeto será especificado em termos de várias funcionalidades, e essas funci
 
 ### Especificações:
   [Parte 1 do trabalho](http://wiki.icmc.usp.br/images/2/2d/SCC0215012021trabalho01c.pdf)
+  
   [Parte 2 do trabalho](http://wiki.icmc.usp.br/images/f/f1/SCC0215012021trabalho02.pdf)
+  
   [Parte 3 do trabalho](http://wiki.icmc.usp.br/images/3/35/SCC0215012021trabalho03a.pdf)
   
 ### OBS:
