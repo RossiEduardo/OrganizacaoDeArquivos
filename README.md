@@ -13,3 +13,4 @@ O projeto será especificado em termos de várias funcionalidades, e essas funci
   
 ### OBS:
   Para compilar o código utilize o comando 'make' e para rodar o comando 'make run'
+  teste
